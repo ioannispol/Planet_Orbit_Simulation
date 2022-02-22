@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Dev\Planet_Orbit_Simulation\x64\Debug\Planet_Orbit_Simulation.exe</FullPath>
+      <FullPath>C:\Dev\Planet_Orbit_Simulation\Planet_Orbit_Simulation\x64\Debug\Planet_Orbit_Simulation.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
