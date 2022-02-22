@@ -1,5 +1,10 @@
 #include "raylib.h"
 
+/*
+In the main.cpp keep only the functional code
+For the raylib window create a separate class
+*/
+
 int main(void)
 {
     InitWindow(800, 450, "raylib [core] example - basic window");
